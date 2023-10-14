@@ -1,0 +1,10 @@
+{
+  "display_name": "6.86x",
+  "language": "python",
+  "argv": [
+    "python",
+    "kernel-proxy.py",
+    "-f",
+    "6.86x"
+  ]
+}
